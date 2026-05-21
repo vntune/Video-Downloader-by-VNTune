@@ -254,7 +254,7 @@ export default function App() {
                   Đang quét...
                 </>
               ) : (
-                'OK - Quét Link'
+                'Quét link'
               )}
             </button>
           </div>
